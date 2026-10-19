@@ -1,2 +1,3 @@
-2026/10/19-07:38:31.312 69f0 Creating DB D:\3RD YEAR\SOA\ENTITYTASKWORKSPACE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\Local Storage\leveldb since it was missing.
-2026/10/19-07:38:31.328 69f0 Reusing MANIFEST D:\3RD YEAR\SOA\ENTITYTASKWORKSPACE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\Local Storage\leveldb/MANIFEST-000001
+2026/10/19-07:38:41.842 713c Reusing MANIFEST D:\3RD YEAR\SOA\ENTITYTASKWORKSPACE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\Local Storage\leveldb/MANIFEST-000001
+2026/10/19-07:38:41.843 713c Recovering log #3
+2026/10/19-07:38:41.845 713c Reusing old log D:\3RD YEAR\SOA\ENTITYTASKWORKSPACE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\Local Storage\leveldb/000003.log 
