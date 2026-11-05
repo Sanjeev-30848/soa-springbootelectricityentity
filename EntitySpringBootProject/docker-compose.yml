@@ -16,6 +16,7 @@ services:
       - springboot-postgres-net
 
   backend:
+    build: .
     image: sanjeev30848/docker-electricity-entity-backend:latest
     container_name: docker-springboot
     ports:
